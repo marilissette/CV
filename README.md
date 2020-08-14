@@ -1,2 +1,0 @@
-# CV
-Proyecto CV
